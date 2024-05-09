@@ -1,0 +1,2 @@
+This is School Management System developed in OOP (C#) and SQL Server (Database).
+Basic functions for management are build in it.

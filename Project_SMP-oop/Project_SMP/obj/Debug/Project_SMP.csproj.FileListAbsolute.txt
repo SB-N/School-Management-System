@@ -1,0 +1,44 @@
+C:\Users\PMLS\OneDrive - Higher Education Commission\DB Lab\Project\Project_SMP\Project_SMP\bin\Debug\Project_SMP.exe
+C:\Users\PMLS\OneDrive - Higher Education Commission\DB Lab\Project\Project_SMP\Project_SMP\bin\Debug\Project_SMP.exe.config
+C:\Users\PMLS\OneDrive - Higher Education Commission\DB Lab\Project\Project_SMP\Project_SMP\obj\Debug\Project_SMP.Admission.resources
+C:\Users\PMLS\OneDrive - Higher Education Commission\DB Lab\Project\Project_SMP\Project_SMP\obj\Debug\Project_SMP.DashBoard.resources
+C:\Users\PMLS\OneDrive - Higher Education Commission\DB Lab\Project\Project_SMP\Project_SMP\obj\Debug\Project_SMP.Defaulter.resources
+C:\Users\PMLS\OneDrive - Higher Education Commission\DB Lab\Project\Project_SMP\Project_SMP\obj\Debug\Project_SMP.Delete.resources
+C:\Users\PMLS\OneDrive - Higher Education Commission\DB Lab\Project\Project_SMP\Project_SMP\obj\Debug\Project_SMP.Fee.resources
+C:\Users\PMLS\OneDrive - Higher Education Commission\DB Lab\Project\Project_SMP\Project_SMP\obj\Debug\Project_SMP.FrmLog.resources
+C:\Users\PMLS\OneDrive - Higher Education Commission\DB Lab\Project\Project_SMP\Project_SMP\obj\Debug\Project_SMP.Properties.Resources.resources
+C:\Users\PMLS\OneDrive - Higher Education Commission\DB Lab\Project\Project_SMP\Project_SMP\obj\Debug\Project_SMP.school.resources
+C:\Users\PMLS\OneDrive - Higher Education Commission\DB Lab\Project\Project_SMP\Project_SMP\obj\Debug\Project_SMP.Student.resources
+C:\Users\PMLS\OneDrive - Higher Education Commission\DB Lab\Project\Project_SMP\Project_SMP\obj\Debug\Project_SMP.Teacher.resources
+C:\Users\PMLS\OneDrive - Higher Education Commission\DB Lab\Project\Project_SMP\Project_SMP\obj\Debug\Project_SMP.FrmTview.resources
+C:\Users\PMLS\OneDrive - Higher Education Commission\DB Lab\Project\Project_SMP\Project_SMP\obj\Debug\Project_SMP.update.resources
+C:\Users\PMLS\OneDrive - Higher Education Commission\DB Lab\Project\Project_SMP\Project_SMP\obj\Debug\Project_SMP.View.resources
+C:\Users\PMLS\OneDrive - Higher Education Commission\DB Lab\Project\Project_SMP\Project_SMP\obj\Debug\Project_SMP.csproj.GenerateResource.cache
+C:\Users\PMLS\OneDrive - Higher Education Commission\DB Lab\Project\Project_SMP\Project_SMP\obj\Debug\Project_SMP.csproj.CoreCompileInputs.cache
+C:\Users\PMLS\OneDrive - Higher Education Commission\DB Lab\Project\Project_SMP\Project_SMP\obj\Debug\Project_SMP.exe
+C:\Users\PMLS\OneDrive - Higher Education Commission\DB Lab\Project\Project_SMP\Project_SMP\obj\Debug\Project_SMP.pdb
+C:\Users\PMLS\OneDrive - Higher Education Commission\DB Lab\Project\Project_SMP\Project_SMP\bin\Debug\Project_SMP.pdb
+C:\Users\PMLS\OneDrive - Higher Education Commission\DB Lab\Project\Project_SMP\Project_SMP\obj\Debug\Project_SMP.Salary.resources
+C:\Users\PMLS\OneDrive - Higher Education Commission\DB Lab\Project\Project_SMP\Project_SMP\obj\Debug\Project_SMP.csproj.AssemblyReference.cache
+C:\Users\PMLS\OneDrive - Higher Education Commission\Documents\3rd Semester\DB Lab\DB Lab\Final_project\Project_SMP\Project_SMP\Project_SMP\bin\Debug\Project_SMP.exe.config
+C:\Users\PMLS\OneDrive - Higher Education Commission\Documents\3rd Semester\DB Lab\DB Lab\Final_project\Project_SMP\Project_SMP\Project_SMP\bin\Debug\Project_SMP.exe
+C:\Users\PMLS\OneDrive - Higher Education Commission\Documents\3rd Semester\DB Lab\DB Lab\Final_project\Project_SMP\Project_SMP\Project_SMP\bin\Debug\Project_SMP.pdb
+C:\Users\PMLS\OneDrive - Higher Education Commission\Documents\3rd Semester\DB Lab\DB Lab\Final_project\Project_SMP\Project_SMP\Project_SMP\obj\Debug\Project_SMP.csproj.AssemblyReference.cache
+C:\Users\PMLS\OneDrive - Higher Education Commission\Documents\3rd Semester\DB Lab\DB Lab\Final_project\Project_SMP\Project_SMP\Project_SMP\obj\Debug\Project_SMP.Admission.resources
+C:\Users\PMLS\OneDrive - Higher Education Commission\Documents\3rd Semester\DB Lab\DB Lab\Final_project\Project_SMP\Project_SMP\Project_SMP\obj\Debug\Project_SMP.DashBoard.resources
+C:\Users\PMLS\OneDrive - Higher Education Commission\Documents\3rd Semester\DB Lab\DB Lab\Final_project\Project_SMP\Project_SMP\Project_SMP\obj\Debug\Project_SMP.Defaulter.resources
+C:\Users\PMLS\OneDrive - Higher Education Commission\Documents\3rd Semester\DB Lab\DB Lab\Final_project\Project_SMP\Project_SMP\Project_SMP\obj\Debug\Project_SMP.Delete.resources
+C:\Users\PMLS\OneDrive - Higher Education Commission\Documents\3rd Semester\DB Lab\DB Lab\Final_project\Project_SMP\Project_SMP\Project_SMP\obj\Debug\Project_SMP.Fee.resources
+C:\Users\PMLS\OneDrive - Higher Education Commission\Documents\3rd Semester\DB Lab\DB Lab\Final_project\Project_SMP\Project_SMP\Project_SMP\obj\Debug\Project_SMP.FrmLog.resources
+C:\Users\PMLS\OneDrive - Higher Education Commission\Documents\3rd Semester\DB Lab\DB Lab\Final_project\Project_SMP\Project_SMP\Project_SMP\obj\Debug\Project_SMP.Properties.Resources.resources
+C:\Users\PMLS\OneDrive - Higher Education Commission\Documents\3rd Semester\DB Lab\DB Lab\Final_project\Project_SMP\Project_SMP\Project_SMP\obj\Debug\Project_SMP.Salary.resources
+C:\Users\PMLS\OneDrive - Higher Education Commission\Documents\3rd Semester\DB Lab\DB Lab\Final_project\Project_SMP\Project_SMP\Project_SMP\obj\Debug\Project_SMP.school.resources
+C:\Users\PMLS\OneDrive - Higher Education Commission\Documents\3rd Semester\DB Lab\DB Lab\Final_project\Project_SMP\Project_SMP\Project_SMP\obj\Debug\Project_SMP.Student.resources
+C:\Users\PMLS\OneDrive - Higher Education Commission\Documents\3rd Semester\DB Lab\DB Lab\Final_project\Project_SMP\Project_SMP\Project_SMP\obj\Debug\Project_SMP.Teacher.resources
+C:\Users\PMLS\OneDrive - Higher Education Commission\Documents\3rd Semester\DB Lab\DB Lab\Final_project\Project_SMP\Project_SMP\Project_SMP\obj\Debug\Project_SMP.FrmTview.resources
+C:\Users\PMLS\OneDrive - Higher Education Commission\Documents\3rd Semester\DB Lab\DB Lab\Final_project\Project_SMP\Project_SMP\Project_SMP\obj\Debug\Project_SMP.update.resources
+C:\Users\PMLS\OneDrive - Higher Education Commission\Documents\3rd Semester\DB Lab\DB Lab\Final_project\Project_SMP\Project_SMP\Project_SMP\obj\Debug\Project_SMP.View.resources
+C:\Users\PMLS\OneDrive - Higher Education Commission\Documents\3rd Semester\DB Lab\DB Lab\Final_project\Project_SMP\Project_SMP\Project_SMP\obj\Debug\Project_SMP.csproj.GenerateResource.cache
+C:\Users\PMLS\OneDrive - Higher Education Commission\Documents\3rd Semester\DB Lab\DB Lab\Final_project\Project_SMP\Project_SMP\Project_SMP\obj\Debug\Project_SMP.csproj.CoreCompileInputs.cache
+C:\Users\PMLS\OneDrive - Higher Education Commission\Documents\3rd Semester\DB Lab\DB Lab\Final_project\Project_SMP\Project_SMP\Project_SMP\obj\Debug\Project_SMP.exe
+C:\Users\PMLS\OneDrive - Higher Education Commission\Documents\3rd Semester\DB Lab\DB Lab\Final_project\Project_SMP\Project_SMP\Project_SMP\obj\Debug\Project_SMP.pdb
